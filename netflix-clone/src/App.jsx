@@ -1,10 +1,11 @@
 import React from 'react'
-import Home from './Pages/Home/HomePage'
+import "./App.css"
+import Home from './Pages/Home/Home'
 
 function App() {
   return (
     <div className='App'>
-    <h1>Hello</h1>
+    {/* <h1>Hello</h1> */}
        <Home/>
     </div>
   )
