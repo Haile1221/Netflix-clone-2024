@@ -1,10 +1,4 @@
 
-
-
-// tmdbapikey: 8921e756b3303eca85d1e1332b1c2edc
-//baseurl: https://api.themoviedb.org/3
-
-// const API_KEY = "8921e756b3303eca85d1e1332b1c2edc";
 const API_KEY = process.env.REACT_APP_API_KEY;
 
 
