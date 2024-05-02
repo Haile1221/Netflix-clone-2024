@@ -13,9 +13,8 @@ const Footer = () => {
     < FacebookOutlinedIcon/>
     < InstagramIcon/>
     < YouTubeIcon/>
-
-
   </div>
+
   <div className="footer_data">
     <div>
       <ul>
@@ -46,6 +45,7 @@ const Footer = () => {
       </ul>
     </div>
   </div>
+  
   <div className="service_code">
     <p>Service Code</p>
   </div>

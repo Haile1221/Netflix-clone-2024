@@ -5,15 +5,19 @@ import Footer from '../../netflixComponents/Footer/Footer';
 
 
 import Banner from '../../netflixComponents/Banner/Banner'
+import RowList from '../../netflixComponents/Rows/RowList/RowList';
+
 
 
 const Home = () => {
   return (
     <> 
-      <Header />
-     
-      
+      <Header />        
     < Banner  />
+    
+    <RowList/>
+
+
       <Footer />
     </>
   );
